@@ -1,0 +1,40 @@
+Slack umedago
+
+初めてのGo言語教室
+
+小学生はスクラッチ
+
+GoConfarence
+
+2月と8月にアップデート
+
+関数名はかしら大文字だとパブリック
+
+ヌルポインタを防ぐことができる
+
+GOOS=windows GOARCH=amd64 go build
+(クロスプラットフォームのビルドができる)
+
+ls -l
+
+Gitbash
+
+WSL2
+
+go 関数名 ←並列処置
+
+ガベサンの関係でC++よりはちょっと遅い
+
+Go mobile
+
+GUIは辛い
+
+"net/http"
+
+Perl minila的な？
+
+Echo ←ウェブフレームワーク
+
+VSCodeはプラグイン入れるとブレイクポイントが効くようになる
+
+レースコンディション ←並列実行テストのオプション？
